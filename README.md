@@ -1,4 +1,4 @@
-#Remote_Server
+# Remote_Server
 
 Spin up EC2 instance (AWS)
 
