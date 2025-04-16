@@ -1,8 +1,8 @@
-# Remote_Server
+Remote_Server
 
-# Spin up EC2 instance (AWS)
+Spin up EC2 instance (AWS)
 
-# Create SSH key, copy to .ssh 
+Create SSH key, copy to .ssh 
 
 # change permissions for owner to read and write
 
