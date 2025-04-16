@@ -6,7 +6,7 @@ Create SSH key, copy to .ssh
 
 change permissions for owner to read and write
 
-login to instance by passing in ssh -i "key" <instance>
+login to instance by passing in ssh -i "key"@instance
 
 Create another ssh key and generate the public key -- ssh-keygen -y -f "privatekey.pem"
 
